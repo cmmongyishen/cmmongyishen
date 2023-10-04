@@ -4,6 +4,8 @@
 🤖
 😽
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+<img src="https://giphy.com/embed/26xBN6I5tVKveX2wg" width="480">
 <!--
 **cmmongyishen/cmmongyishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
