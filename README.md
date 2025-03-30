@@ -11,6 +11,10 @@
 
 <img src="https://github.com/cmmongyishen/cmmongyishen/blob/fd67fb5c80ac635565cf58f5f39cd31e80b36401/thanos.jpg" width="480">
 
+<img src="https://github.com/cmmongyishen/cmmongyishen/blob/ce88954f2185d64c40731d30f8c23159a9f2441f/FullStack.jpg" width="480">
+
+<img src="https://github.com/cmmongyishen/cmmongyishen/blob/ce88954f2185d64c40731d30f8c23159a9f2441f/Walter.jpg" width="480">
+
 <!--
 **cmmongyishen/cmmongyishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
